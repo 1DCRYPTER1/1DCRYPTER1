@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1DCRYPTER1
-- 👀 I’m interested in Android, Web Development, Flutter 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 👀 I’m interested in Android, Web Development, Flutter, Python
+- 🌱 I’m currently studying Data Science
 - 📫 How to reach me ... Email: shaundsilva610@gmail.com / Phone: 9307369932
 
 <!---
